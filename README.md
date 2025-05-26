@@ -1,3 +1,6 @@
 # prueba_IA_BIM1
 
-## coso
+## Integrantes
+- Adrian Ramos
+- Josue Guerra
+- Christian Márquez 
